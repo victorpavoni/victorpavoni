@@ -1,7 +1,6 @@
 ### Olá, Eu sou Victor - 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pavoni_victor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpavoni_victor&screen_name=victor)
 
 ## Eu sou desenvolvedor Front-end e Back-end!
 
@@ -32,3 +31,4 @@
 
 [twitter]: https://twitter.com/pavoni_victor
 [instagram]: https://www.instagram.com/pavoni_victor77/
+[twitch]: https://www.twitch.tv/elitexdev
