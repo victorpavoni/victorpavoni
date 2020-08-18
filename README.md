@@ -1,6 +1,6 @@
 ### Olá, Eu sou Victor - 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/pavoni_victor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpavoni_victor&screen_name=victor)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pavoni_victor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpavoni_victor&screen_name=pavoni_victor)
 
 ## Eu sou desenvolvedor Front-end e Back-end!
 
