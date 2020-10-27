@@ -31,4 +31,4 @@
 
 [twitter]: https://twitter.com/pavoni_victor
 [instagram]: https://www.instagram.com/pavoni_victor77/
-[twitch]: https://www.twitch.tv/elitexdev
+[twitch]: https://www.twitch.tv/elitexbr
