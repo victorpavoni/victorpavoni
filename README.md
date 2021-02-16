@@ -6,7 +6,7 @@
 
 - 🖥 Estou estudando um pouco de cada coisa nesse exato momento!
 - 🤞 Estou em busca de um projeto
-- ⚡ Metas de 2020: Aprender React Native
+- ⚡ Metas de 2021: Aprender React Native
 
 ### Contate-me:
 
