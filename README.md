@@ -1,7 +1,5 @@
 ### Olá, Eu sou Victor - 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/pavoni_victor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpavoni_victor&screen_name=pavoni_victor)
-
 ## Eu sou desenvolvedor Front-end e Back-end!
 
 - 🖥 Estou estudando um pouco de cada coisa nesse exato momento!
@@ -11,6 +9,7 @@
 ### Contate-me:
 
 [<img align="left" alt="victor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/evictorp) 
 
 <br />
 
@@ -36,9 +35,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 📊 GitHub Stats:
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorpavoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-</a>
 <a href="#">
   <img align="center" src="https://streak-stats.demolab.com/?user=victorpavoni&theme=dark" />
 </a>
