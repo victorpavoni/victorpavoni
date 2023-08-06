@@ -1,4 +1,4 @@
-### Olá, Eu sou Victor - 👋
+### Olá, Eu sou Victor - <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 ## Eu sou desenvolvedor Front-end e Back-end!
 
@@ -9,7 +9,6 @@
 ### Contate-me:
 
 [<img align="left" alt="victor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/evictorp) 
 
 <br />
 
