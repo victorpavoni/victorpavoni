@@ -4,11 +4,10 @@
 
 - 🖥 Estou estudando um pouco de cada coisa nesse exato momento!
 - 🤞 Estou em busca de um projeto
-- ⚡ Metas de 2023: Aprimorar minhas habilidades em NestJS
 
 ### Contate-me:
 
-[<img align="left" alt="victor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[Linkedin](https://www.linkedin.com/in/victor-pavoni-aa6058195/)
 
 <br />
 
