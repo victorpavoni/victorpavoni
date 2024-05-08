@@ -1,9 +1,10 @@
 ### Olá, eu sou o Victor - <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-## Eu sou desenvolvedor Front-end e Back-end!
+## Eu sou desenvolvedor Front-end, Back-end e Pentester!
 
 - 🖥 Estou estudando um pouco de cada coisa nesse exato momento!
 - 🤞 Estou em busca de um projeto
+- 🚀 DCPT in progress...
 
 ### Contate-me:
 
